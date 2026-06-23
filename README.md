@@ -43,6 +43,4 @@ Passionné par la culture DevOps, la conception d'infrastructures cloud robustes
 * 💻 **Environnement favori :** Workflow optimisé sous Linux.
 * 🎯 **Centres d'intérêt :** Veille constante sur l'écosystème Cloud Native (CNCF) et l'IA générative[cite: 1]. Fan d'Échecs ♟️ et de Football ⚽.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younesbslh121&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Younes Boussalah GitHub Stats" />
-</p>
+
